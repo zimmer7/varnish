@@ -1,6 +1,6 @@
 # [zimmer7](http://zimmer7.com) 💗  [varnish](https://www.varnish-cache.org)
 
-![varnish-bunny](Resources/Public/Icons/VarnishBunny.svg)
+![varnish-bunny](Resources/Public/Icons/VarnishTYPO3Bunny.svg)
 
 ## Installation
 
