@@ -1,399 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="431px" height="432px" viewBox="0 0 431 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="433px" height="433px" viewBox="0 0 433 433" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
     <title>VarnishTYPO3Bunny</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <ellipse id="path-1" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-3" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-5" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-7" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-9" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-11" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-13" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-15" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <linearGradient x1="80.0551442%" y1="116.269483%" x2="-68.4288799%" y2="-176.591025%" id="linearGradient-17">
-            <stop stop-color="#E83E5C" offset="12.88%"></stop>
-            <stop stop-color="#C0202E" offset="40.49%"></stop>
+        <linearGradient x1="50.0000355%" y1="97.2340484%" x2="50.0000355%" y2="26.9310762%" id="linearGradient-1">
+            <stop stop-color="#D9EFFC" offset="0%"></stop>
+            <stop stop-color="#CBE9FA" offset="7.07%"></stop>
+            <stop stop-color="#ADDCF7" offset="22.82%"></stop>
+            <stop stop-color="#92D2F4" offset="39.4%"></stop>
+            <stop stop-color="#7DCBF2" offset="56.94%"></stop>
+            <stop stop-color="#6FC7F1" offset="76.12%"></stop>
+            <stop stop-color="#69C5F1" offset="100%"></stop>
         </linearGradient>
-        <ellipse id="path-18" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <linearGradient x1="31.1444922%" y1="50.183142%" x2="-885.75995%" y2="22.2055396%" id="linearGradient-20">
-            <stop stop-color="#E83E5C" offset="12.88%"></stop>
-            <stop stop-color="#C0202E" offset="40.49%"></stop>
+        <linearGradient x1="35.484995%" y1="50%" x2="110.174984%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#F9F9F8" offset="0.51%"></stop>
+            <stop stop-color="#EAF4FA" offset="11%"></stop>
+            <stop stop-color="#DAEFFB" offset="25.45%"></stop>
+            <stop stop-color="#D3EDFC" offset="35.53%"></stop>
+            <stop stop-color="#6DC3EF" offset="73.03%"></stop>
+            <stop stop-color="#85BDE8" offset="99.44%"></stop>
+            <stop stop-color="#85BDE8" offset="100%"></stop>
         </linearGradient>
-        <ellipse id="path-21" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <linearGradient x1="82.2845757%" y1="40.2906069%" x2="-124.574159%" y2="189.513506%" id="linearGradient-23">
-            <stop stop-color="#E83E5C" offset="0%"></stop>
-            <stop stop-color="#C0202E" offset="40.49%"></stop>
-        </linearGradient>
-        <ellipse id="path-24" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-26" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-28" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-30" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <linearGradient x1="7.35016958%" y1="40.5147575%" x2="97.3832528%" y2="60.4447385%" id="linearGradient-32">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
-        </linearGradient>
-        <ellipse id="path-33" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <linearGradient x1="-2.68635817%" y1="47.0792953%" x2="96.790411%" y2="58.9008757%" id="linearGradient-35">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
-        </linearGradient>
-        <ellipse id="path-36" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <radialGradient cx="150.383956%" cy="-16.1968665%" fx="150.383956%" fy="-16.1968665%" r="691.07379%" id="radialGradient-38">
-            <stop stop-color="#FFFFFB" offset="0.31%"></stop>
-            <stop stop-color="#D9EEF6" offset="17.02%"></stop>
-            <stop stop-color="#D2E8F3" offset="20.05%"></stop>
-            <stop stop-color="#A3BDDF" offset="41.27%"></stop>
-            <stop stop-color="#85A3D2" offset="57.36%"></stop>
-            <stop stop-color="#799ACD" offset="66.33%"></stop>
+        <radialGradient cx="49.9999837%" cy="50.0000337%" fx="49.9999837%" fy="50.0000337%" r="49.138652%" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#69C5F1" stop-opacity="0" offset="100%"></stop>
         </radialGradient>
-        <ellipse id="path-39" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <radialGradient cx="23.7937302%" cy="146.134646%" fx="23.7937302%" fy="146.134646%" r="1926.93606%" id="radialGradient-41">
-            <stop stop-color="#FFFFFB" offset="0.31%"></stop>
-            <stop stop-color="#D9EEF6" offset="17.02%"></stop>
-            <stop stop-color="#D2E8F3" offset="20.05%"></stop>
-            <stop stop-color="#A3BDDF" offset="41.27%"></stop>
-            <stop stop-color="#85A3D2" offset="57.36%"></stop>
-            <stop stop-color="#799ACD" offset="66.33%"></stop>
-        </radialGradient>
-        <ellipse id="path-42" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-44" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-46" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-48" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-50" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <linearGradient x1="105.37158%" y1="9.0267113%" x2="-115.626813%" y2="154.010365%" id="linearGradient-52">
-            <stop stop-color="#E83E5C" offset="12.88%"></stop>
-            <stop stop-color="#C0202E" offset="40.49%"></stop>
+        <linearGradient x1="48.7740567%" y1="-45.7807491%" x2="49.8338921%" y2="80.244161%" id="linearGradient-4">
+            <stop stop-color="#E0E9AE" offset="0%"></stop>
+            <stop stop-color="#94C11F" offset="52.73%"></stop>
+            <stop stop-color="#5BAA34" offset="100%"></stop>
         </linearGradient>
-        <ellipse id="path-53" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-55" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-57" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-59" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-61" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-63" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-65" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-67" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-69" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-71" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-73" cx="143.957165" cy="144.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <ellipse id="path-75" cx="142.957165" cy="142.790414" rx="142.472506" ry="142.5526"></ellipse>
-        <linearGradient x1="86.0188916%" y1="-17.8809273%" x2="31.7866033%" y2="87.6865487%" id="linearGradient-77">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
+        <linearGradient x1="23.17494%" y1="86.8971057%" x2="56.2468882%" y2="47.8769809%" id="linearGradient-5">
+            <stop stop-color="#EDEDED" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" offset="23.94%"></stop>
+            <stop stop-color="#FDFDFD" offset="57.79%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="81.6662626%" y1="4.35991162%" x2="-11.3534026%" y2="148.948579%" id="linearGradient-78">
-            <stop stop-color="#FFFFFB" offset="4.91%"></stop>
-            <stop stop-color="#D9EEF6" offset="28.22%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
+        <linearGradient x1="14.6830338%" y1="79.610722%" x2="50.9266719%" y2="48.5892914%" id="linearGradient-6">
+            <stop stop-color="#EDEDED" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" offset="23.94%"></stop>
+            <stop stop-color="#FDFDFD" offset="57.79%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="99.7748941%" y1="-15.9729692%" x2="41.0711294%" y2="70.8590755%" id="linearGradient-79">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
-        </linearGradient>
-        <radialGradient cx="70.4498515%" cy="32.6590125%" fx="70.4498515%" fy="32.6590125%" r="166.803887%" id="radialGradient-80">
-            <stop stop-color="#FFFFFB" offset="0.31%"></stop>
-            <stop stop-color="#D9EEF6" offset="17.02%"></stop>
-            <stop stop-color="#D2E8F3" offset="20.05%"></stop>
-            <stop stop-color="#A3BDDF" offset="41.27%"></stop>
-            <stop stop-color="#85A3D2" offset="57.36%"></stop>
-            <stop stop-color="#799ACD" offset="66.33%"></stop>
-        </radialGradient>
-        <linearGradient x1="33.3425774%" y1="250.172351%" x2="72.0791534%" y2="-158.251932%" id="linearGradient-81">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="58.4411343%" y1="-5.68775252%" x2="23.9896253%" y2="321.926966%" id="linearGradient-82">
-            <stop stop-color="#FFFFFB" offset="4.91%"></stop>
-            <stop stop-color="#D9EEF6" offset="28.22%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="68.1763279%" y1="129.906614%" x2="16.7755037%" y2="-92.5107959%" id="linearGradient-83">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="40.1209116%" y1="128.730101%" x2="66.0259648%" y2="-90.6590607%" id="linearGradient-84">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="0.314092325%" y1="187.914485%" x2="57.8612189%" y2="20.5261333%" id="linearGradient-85">
-            <stop stop-color="#D9EEF6" offset="0%"></stop>
-            <stop stop-color="#799ACD" offset="100%"></stop>
+        <linearGradient x1="10.8047528%" y1="101.217478%" x2="124.038191%" y2="-70.9886307%" id="linearGradient-7">
+            <stop stop-color="#EDEDED" offset="0%"></stop>
+            <stop stop-color="#F2F2F2" offset="14.99%"></stop>
+            <stop stop-color="#F4F4F4" offset="39.51%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="varnish_superbunny_poster_creativecommons" sketch:type="MSLayerGroup" transform="translate(-86.000000, -187.000000)">
+            <rect id="Rectangle-path" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="16.75" y="1.128" width="1407.25" height="907.872"></rect>
+            <path d="M887.567,0.128 L318.119,758.463 L680.036,0.128 L492.776,0.128 L275.701,743.89 L335.738,0.128 L168.877,0.128 L230.611,743.89 L25.47,46.848 L25.47,419.446 L188.284,758.622 L25.47,542.787 L25.47,662.248 L153.753,786.185 L25.47,702.84 L25.47,775.416 L131.289,823.299 L25.47,797.541 L25.47,856.481 L123.494,865.434 L25.47,874.596 L25.47,908 L129.942,908 L131.373,907.648 L130.601,908 L376.671,908 L375.364,907.408 L377.794,908 L851.873,908 L383.157,865.194 L1424,772.706 L1424,546.643 L375.279,823.06 L1424,366.169 L1424,76.75 L362.646,786.021 L1172.649,0.128 L887.567,0.128 Z" id="Shape" opacity="0.2" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval" fill="url(#radialGradient-3)" sketch:type="MSShapeGroup" cx="307.961" cy="410.034" rx="307.518" ry="296.828"></ellipse>
+            <path d="M210.867,246.333 C210.867,237.126 202.656,229.627 192.374,229.272 C188.074,224.152 181.197,220.837 173.445,220.837 C172.117,220.837 170.816,220.939 169.547,221.126 C165.676,216.709 159.632,213.862 152.839,213.862 C144.445,213.862 137.195,218.195 133.777,224.481 C133.353,224.46 132.929,224.446 132.5,224.446 C120.37,224.446 110.535,233.169 110.535,243.93 C110.535,246.944 111.308,249.799 112.686,252.347 L209.635,252.347 C210.43,250.474 210.867,248.449 210.867,246.333 L210.867,246.333 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M582.831138,395.347683 C582.831138,381.271683 570.281138,369.813683 554.569138,369.273683 C547.997138,361.449683 537.487138,356.379683 525.640138,356.379683 C523.612138,356.379683 521.622138,356.536683 519.683138,356.820683 C513.766138,350.071683 504.531138,345.718683 494.148138,345.718683 C481.320138,345.718683 470.241138,352.342683 465.017138,361.949683 C464.369138,361.912683 463.721138,361.892683 463.068138,361.892683 C444.528138,361.892683 429.499138,375.221683 429.499138,391.668683 C429.499138,396.270683 430.680138,400.641683 432.785138,404.528683 L580.949138,404.528683 C582.163138,401.671683 582.831138,398.580683 582.831138,395.347683 L582.831138,395.347683 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M101.255,322.099 C101.255,315.424 107.209,309.986 114.664,309.73 C117.78,306.018 122.768,303.614 128.388,303.614 C129.35,303.614 130.293,303.687 131.214,303.823 C134.021,300.618 138.402,298.556 143.33,298.556 C149.413,298.556 154.67,301.699 157.148,306.252 C157.454,306.237 157.762,306.228 158.075,306.228 C166.87,306.228 173.997,312.554 173.997,320.354 C173.997,322.542 173.437,324.609 172.437,326.458 L102.146,326.458 C101.569,325.104 101.255,323.634 101.255,322.099 L101.255,322.099 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M59.8805,386.034183 C59.8805,378.440183 66.6535,372.256183 75.1335,371.966183 C78.6785,367.742183 84.3525,365.007183 90.7465,365.007183 C91.8405,365.007183 92.9145,365.090183 93.9625,365.245183 C97.1565,361.599183 102.1375,359.255183 107.7435,359.255183 C114.6645,359.255183 120.6435,362.831183 123.4625,368.009183 C123.8115,367.991183 124.1635,367.979183 124.5185,367.979183 C134.5225,367.979183 142.6295,375.179183 142.6295,384.049183 C142.6295,386.538183 141.9935,388.894183 140.8565,390.992183 L60.8975,390.992183 C60.2385,389.452183 59.8805,387.780183 59.8805,386.034183 L59.8805,386.034183 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M64.9268774,613.925032 L64.9268774,641.148032 L601.264877,641.148032 C423.934877,577.036032 243.645877,565.334032 64.9268774,613.925032 L64.9268774,613.925032 Z" id="Shape" fill="url(#linearGradient-4)" sketch:type="MSShapeGroup"></path>
+        </g>
         <g id="VarnishTYPO3Bunny" sketch:type="MSArtboardGroup">
-            <g id="VarnishBunny" sketch:type="MSLayerGroup" transform="translate(0.000000, 49.000000)">
-                <path d="M287.115949,20.6847357 C188.412152,-1.00947857 90.8211646,61.4632929 69.1391392,160.219843 C47.4571139,258.976393 109.894785,356.624979 208.595848,378.319193 C307.299646,400.013407 404.890633,337.540636 426.572658,238.784086 C448.254684,140.027536 385.817013,42.3816857 287.115949,20.6847357 L287.115949,20.6847357 Z M217.287797,338.736143 C140.435544,321.843107 91.8191392,245.814871 108.702684,168.919414 C125.586228,92.0239571 201.571747,43.3802214 278.424,60.2732571 C355.276253,77.1662929 403.892658,153.194529 387.009114,230.089986 C370.128304,306.985443 294.140051,355.629179 217.287797,338.736143 L217.287797,338.736143 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.6747" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <g id="Group" transform="translate(103.898734, 54.714286)">
-                    <g id="Clipped">
-                        <mask id="mask-2" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-1"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M204.204759,307.067514 C231.161013,296.042586 221.063696,291.484886 221.063696,291.484886 L234.100253,282.659471 C297.803848,239.963179 231.068051,206.004757 231.068051,206.004757 C154.803646,172.875257 46.2404051,220.326221 46.2404051,220.326221 C-36.5914937,262.324907 64.5539241,293.908729 64.5539241,293.908729 C106.296608,306.008793 98.1268861,305.965021 98.1268861,305.965021 L204.204759,307.067514 Z M137.198278,340.856321 C156.228152,328.67145 162.251544,335.841757 162.251544,335.841757 L137.198278,340.856321 Z M107.20162,261.017236 L92.7487595,258.604336 C92.7487595,258.604336 85.057519,251.067443 74.9957468,262.300286 L59.7034937,260.106243 C60.6276456,258.555093 90.7801519,238.297129 106.561823,238.256093 C106.561823,238.256093 111.931747,232.420814 109.19757,252.864807 L107.20162,261.017236 L107.20162,261.017236 Z M209.528203,256.216057 L208.008,241.853557 C208.008,241.853557 240.085367,250.071643 209.528203,256.216057 L209.528203,256.216057 Z" id="Shape" fill="#C0202E" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-4" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-3"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M93.1807595,301.453829 C76.4011139,297.030179 60.3952405,289.744971 45.1822785,281.474907 C36.7938228,276.914471 28.5448101,271.52785 22.9178734,263.654464 C16.6155949,254.839993 22.8057722,246.63285 29.2146835,240.253164 C48.8788861,220.679129 82.7389367,211.675893 109.659646,210.182193 C118.176608,209.708914 118.25043,196.481736 109.659646,196.875679 C75.3101772,198.454186 30.6555949,212.113607 11.6858734,243.092836 C2.54551899,258.016157 14.1302278,272.315736 25.7696203,280.903143 C44.3647595,294.625486 70.1425823,300.069557 92.3358987,304.539714 C94.3345823,304.9446 95.1931139,301.984557 93.1807595,301.453829 L93.1807595,301.453829 L93.1807595,301.453829 Z" id="Shape" fill="#811719" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-6" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-5"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M232.722228,283.387171 C244.689722,280.739 252.618835,272.014807 259.489823,262.344057 C268.786025,249.261871 268.868051,238.174021 261.198684,224.238293 C248.285165,200.774071 214.507139,189.253979 189.221468,190.361943 C183.189873,190.624571 181.185722,200.48135 187.725873,201.416964 C207.625215,204.259371 227.710481,208.094843 243.631595,221.311079 C255.664709,231.299171 260.763949,243.891664 252.413772,258.207657 C246.751291,267.916707 239.814684,274.455064 232.076962,282.276471 C231.587544,282.763429 232.08243,283.529429 232.722228,283.387171 L232.722228,283.387171 L232.722228,283.387171 Z" id="Shape" fill="#811719" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-8" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-7"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M32.0801013,230.984564 C32.0801013,230.984564 -22.2206582,260.978936 62.6099241,294.154943 C62.6099241,294.154943 68.4993418,293.788357 70.4980253,284.678429 C70.4980253,284.678429 -24.9849114,264.108593 66.9162532,221.617479 C66.9189873,221.617479 67.2006076,210.885271 32.0801013,230.984564 L32.0801013,230.984564 Z" id="Shape" fill="#A62026" sketch:type="MSShapeGroup" mask="url(#mask-8)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-10" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-9"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M200.983899,224.766286 C199.89843,223.636436 264.225418,239.684136 226.780861,259.9038 L219.231797,252.656893 C219.231797,252.656893 239.718987,249.540914 206.296405,242.192786 C206.299139,242.19005 207.187747,231.208893 200.983899,224.766286 L200.983899,224.766286 Z" id="Shape" fill="#A62026" sketch:type="MSShapeGroup" mask="url(#mask-10)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-12" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-11"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M100.943089,340.456907 C100.943089,340.456907 124.44881,316.6644 125.028456,290.883029 C125.028456,290.883029 134.133266,251.732221 109.618633,236.185157" id="Shape" fill="#A62026" sketch:type="MSShapeGroup" mask="url(#mask-12)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-14" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-13"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M162.251544,335.841757 C162.251544,335.841757 148.629873,329.090014 131.992405,344.741036 C131.992405,344.741036 158.415494,305.333071 175.517772,326.874086" id="Shape" fill="#A62026" sketch:type="MSShapeGroup" mask="url(#mask-14)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-16" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-15"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M53.3246582,255.067057 C53.3246582,255.067057 72.792,223.048257 106.725873,224.282064 C106.725873,224.282064 127.385316,229.343136 104.554937,234.177143 C104.552203,234.177143 78.9767089,237.372457 53.3246582,255.067057 L53.3246582,255.067057 Z" id="Shape" fill="url(#linearGradient-17)" sketch:type="MSShapeGroup" mask="url(#mask-16)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-19" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-18"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M211.896,212.658014 C210.408608,212.069836 287.588962,226.703171 240.301367,265.052414 C240.301367,265.052414 236.030582,270.337814 231.461772,265.183729 C231.461772,265.183729 271.030785,236.026486 211.896,212.658014 L211.896,212.658014 Z" id="Shape" fill="url(#linearGradient-20)" sketch:type="MSShapeGroup" mask="url(#mask-19)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-22" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-21"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M202.405671,252.583029 C202.405671,252.583029 201.322937,299.229693 189.224203,322.436757 C189.224203,322.436757 164.92557,303.084314 141.11362,318.327714 C141.11362,318.327714 161.997266,294.357386 147.46238,277.152479 C147.46238,277.152479 168.534684,308.728093 181.470076,301.333457 C181.470076,301.327986 195.244861,287.65215 202.405671,252.583029 L202.405671,252.583029 Z" id="Shape" fill="url(#linearGradient-23)" sketch:type="MSShapeGroup" mask="url(#mask-22)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-25" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-24"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-27" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-26"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-29" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-28"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M22.3026835,236.833521 C22.3026835,236.833521 53.3465316,216.247271 102.41681,220.506779 C102.41681,220.506779 233.599899,234.984179 202.091241,196.298443 L185.781873,195.324529 L140.624203,208.890936 C140.621468,208.890936 89.6618734,185.508786 22.3026835,236.833521 L22.3026835,236.833521 Z" id="Shape" fill="#811719" sketch:type="MSShapeGroup" mask="url(#mask-29)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-31" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-30"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M75.9335696,262.267457 C75.9335696,262.267457 82.2249114,253.204036 89.9462278,258.587921 C89.9462278,258.587921 115.770532,258.426514 115.811544,275.026829 C115.811544,275.026829 115.964658,310.697807 95.1384304,307.655693 C95.1384304,307.655693 89.4130633,308.550271 87.6440506,302.630186 L64.4992405,294.778686 C64.4992405,294.778686 81.2816203,281.261521 75.9335696,262.267457 L75.9335696,262.267457 Z" id="Shape" fill="url(#linearGradient-32)" sketch:type="MSShapeGroup" mask="url(#mask-31)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-34" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-33"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M217.449114,254.046636 C217.449114,254.046636 208.016203,256.886307 207.603342,263.3508 L205.01681,305.075914 C205.01681,305.075914 227.606582,298.674343 220.727392,292.245414 L231.959392,283.039736 C231.962127,283.042471 237.244557,261.777764 217.449114,254.046636 L217.449114,254.046636 Z" id="Shape" fill="url(#linearGradient-35)" sketch:type="MSShapeGroup" mask="url(#mask-34)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-37" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-36"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M88.822481,264.975814 C88.822481,264.975814 109.681519,259.474293 109.87838,274.646564 C109.87838,274.646564 112.000101,291.13745 106.08881,296.502186 C100.177519,301.866921 78.1072405,301.754757 88.420557,279.942907 C88.420557,279.942907 95.2915443,268.428286 88.822481,264.975814 L88.822481,264.975814 Z" id="Shape" fill="url(#radialGradient-38)" sketch:type="MSShapeGroup" mask="url(#mask-37)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-40" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-39"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M220.948861,262.253779 C220.948861,262.253779 235.005266,269.374843 225.845772,278.95805 C225.845772,278.95805 214.179038,288.497486 212.429165,294.16315 C212.429165,294.16315 204.366076,271.213243 220.948861,262.253779 L220.948861,262.253779 Z" id="Shape" fill="url(#radialGradient-41)" sketch:type="MSShapeGroup" mask="url(#mask-40)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-43" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-42"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M150.587544,209.0414 C144.635241,205.38375 139.637165,202.680864 132.686886,201.488093 C126.340861,200.399279 119.715949,201.501771 113.304304,200.78775 C110.217418,200.44305 109.689722,205.367336 112.585215,206.108714 C124.883544,209.268464 137.761519,208.710379 150.294987,210.127479 C150.901975,210.195871 151.044152,209.320443 150.587544,209.0414 L150.587544,209.0414 L150.587544,209.0414 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-43)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-45" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-44"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M203.816506,306.26595 C208.858329,307.915586 215.20162,304.731214 219.294684,302.020121 C222.436253,299.938243 228.62643,295.071407 225.512203,290.672379 C222.933873,287.031143 217.804557,290.976043 220.669975,294.409364 C219.641924,293.178293 220.609823,292.4971 220.079392,293.539407 C219.73762,294.209657 219.231797,294.754064 218.734177,295.303943 C217.528405,296.6335 216.09843,297.760614 214.641114,298.79745 C212.016304,300.663207 208.128304,303.73815 204.658633,303.210157 C202.676354,302.909229 201.834228,305.617586 203.816506,306.26595 L203.816506,306.26595 L203.816506,306.26595 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-45)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-47" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-46"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M207.655291,244.944914 C211.729215,245.308764 216.276152,246.725864 219.466937,249.404129 C220.101266,249.937593 221.736304,251.762314 221.703494,251.718543 C220.905114,250.681707 224.547038,247.368757 222.797165,248.036271 C221.659747,248.47125 220.363747,248.599829 219.171646,248.769443 C214.168101,249.488936 215.338329,258.144736 220.366481,257.611271 C223.622886,257.266571 227.76243,256.78235 229.643544,253.658164 C231.30319,250.900564 230.343494,248.2223 228.519797,245.902414 C226.594937,243.456686 222.493671,242.594936 219.713013,241.454143 C215.920709,239.894786 211.731949,239.328493 207.658025,239.522729 C204.128203,239.692343 204.210228,244.638514 207.655291,244.944914 L207.655291,244.944914 L207.655291,244.944914 Z" id="Shape" fill="#811719" sketch:type="MSShapeGroup" mask="url(#mask-47)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-49" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-48"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M220.866835,251.015464 C218.359595,251.3629 215.876962,251.844386 213.449013,252.574821 C212.732658,252.790943 212.038177,253.116493 211.332759,253.370914 C210.963646,253.504964 209.167291,253.838721 210.003949,253.778536 C204.51919,254.186157 205.705823,262.390564 211.001924,261.14855 C215.160608,260.1719 218.764253,256.845271 222.534684,254.979514 C224.940759,253.786743 223.084253,250.709064 220.866835,251.015464 L220.866835,251.015464 L220.866835,251.015464 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-49)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-51" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-50"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M123.05438,234.995121 C122.370835,233.340014 164.19281,215.585229 199.816405,231.416807 C199.816405,231.416807 202.996253,261.457686 170.199797,285.367829 C170.199797,285.367829 134.371139,262.376886 123.05438,234.995121 L123.05438,234.995121 Z" id="Shape" fill="url(#linearGradient-52)" sketch:type="MSShapeGroup" mask="url(#mask-51)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-54" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-53"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M132.410734,237.930543 C131.852962,236.584571 165.915342,222.123586 194.922228,235.017007 C194.922228,235.017007 197.514228,259.479764 170.804051,278.952579 C170.804051,278.952579 141.624911,260.232086 132.410734,237.930543 L132.410734,237.930543 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-54)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-56" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-55"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-58" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-57"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-60" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-59"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-62" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-61"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M104.869367,238.1494 C105.659544,245.475643 102.805063,252.580293 103.483139,259.963986 C103.822177,263.646257 108.790177,265.6488 110.843544,261.958321 C114.860051,254.7333 115.248304,244.94765 112.727392,237.085207 C111.412253,232.984371 104.366278,233.474064 104.869367,238.1494 L104.869367,238.1494 L104.869367,238.1494 Z" id="Shape" fill="#811719" sketch:type="MSShapeGroup" mask="url(#mask-62)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-64" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-63"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M218.862684,292.070329 C222.991291,293.16735 227.478076,291.446586 230.614177,288.68625 C234.690835,285.099729 236.284861,280.645986 234.291646,275.448129 C233.832304,274.24715 232.011342,274.031029 231.639494,275.448129 C230.824709,278.558636 229.97438,282.123271 227.765165,284.563529 C225.345418,287.233586 222.373367,290.707943 218.862684,291.829586 C218.747848,291.867886 218.739646,292.0375 218.862684,292.070329 L218.862684,292.070329 L218.862684,292.070329 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-64)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-66" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-65"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M99.436557,310.1534 C108.311696,310.1534 100.975899,306.908843 96.3086582,306.908843 C87.433519,306.908843 94.7693165,310.1534 99.436557,310.1534 L99.436557,310.1534 L99.436557,310.1534 Z" id="Shape" fill="#811719" sketch:type="MSShapeGroup" mask="url(#mask-66)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-68" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-67"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M76.1933165,261.909079 C70.9081519,260.245764 65.3194937,258.503114 60.619443,255.493829 C60.9803544,258.286993 61.3385316,261.080157 61.699443,263.873321 C76.4804051,252.438036 93.4268354,248.536907 110.49357,242.159957 C115.015899,240.469286 114.72881,232.9406 109.285063,233.236057 C89.7466329,234.297514 69.3988861,244.537293 54.1558481,256.328221 C49.3436962,260.051529 54.8557975,265.862186 59.3453165,265.24665 C64.7015696,264.510743 70.3886582,265.178257 75.8050633,264.773371 C77.4318987,264.653 77.8092152,262.417921 76.1933165,261.909079 L76.1933165,261.909079 L76.1933165,261.909079 Z" id="Shape" fill="#811719" sketch:type="MSShapeGroup" mask="url(#mask-68)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-70" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-69"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M73.9731646,263.430136 C76.3327595,275.918671 69.3688101,282.8838 62.3884557,291.947221 C60.6549873,294.198714 63.8567089,296.42285 65.8936709,295.454407 C77.8939747,289.755914 81.7847089,274.148664 78.4298734,262.199064 C77.6150886,259.293736 73.4235949,260.533014 73.9731646,263.430136 L73.9731646,263.430136 L73.9731646,263.430136 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-70)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-72" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-71"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M218.064304,254.705943 C227.108962,259.146007 233.629975,270.945143 230.641519,280.946914 C229.679089,284.172321 234.537722,285.433486 235.62319,282.320243 C239.831089,270.261214 230.340759,256.462271 218.963848,252.572086 C217.714329,252.145314 216.877671,254.123236 218.064304,254.705943 L218.064304,254.705943 L218.064304,254.705943 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-72)"></path>
-                    </g>
-                    <g id="Clipped">
-                        <mask id="mask-74" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-73"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M75.2500253,263.903414 C77.5959494,262.472636 79.9282025,260.275857 82.5776203,259.471557 C81.7108861,259.072143 81.7601013,259.085821 82.7307342,259.507121 C83.3814684,259.684943 83.9802532,259.529007 84.6227848,259.646643 C86.4109367,259.974929 88.204557,260.874979 90.0009114,261.318164 C92.5218228,261.939171 94.0556962,259.001014 92.4343291,257.137993 C90.2251139,254.59925 85.489519,251.589964 81.9706329,253.652693 C78.6841519,255.578636 76.1960506,258.987336 73.4372658,261.547964 C72.1740759,262.713379 73.8009114,264.78705 75.2500253,263.903414 L75.2500253,263.903414 L75.2500253,263.903414 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-74)"></path>
-                    </g>
-                    <g id="Clipped" transform="translate(1.000000, 2.000000)">
-                        <mask id="mask-76" sketch:name="SVGID_1_" fill="white">
-                            <use xlink:href="#path-75"></use>
-                        </mask>
-                        <g id="SVGID_1_"></g>
-                        <path d="M84.6945823,300.3785 C85.1949367,307.067321 91.6339241,308.550079 97.4440506,308.380464 C107.486684,308.087743 114.633823,300.471514 116.651646,291.077071 C118.491747,282.51155 120.70643,268.619593 114.642025,261.167507 C108.481924,253.597786 96.462481,252.202571 87.4096203,253.956164 C82.731443,254.861686 84.2161013,261.514943 88.4732152,261.815871 C93.4248101,262.168779 98.2041519,261.947186 103.081924,263.134486 C111.177823,265.1042 110.652861,274.080079 110.311089,280.566457 C109.963848,287.159529 109.594734,293.582986 104.793519,298.586607 C102.321823,301.16365 89.9442025,306.18095 87.7404557,299.965407 C87.1881519,298.408786 84.5578734,298.534629 84.6945823,300.3785 L84.6945823,300.3785 L84.6945823,300.3785 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup" mask="url(#mask-76)"></path>
-                    </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(106.000000, 22.000000)">
+                <path d="M13.929,121.484 C-10.991,161.908 -4.073,196.819 53.411,229.987 C110.894,263.156 177.697,257.271 202.617,216.849 C227.54,176.424 201.139,116.771 143.656,83.603 C86.173,50.436 38.852,81.06 13.929,121.484 L13.929,121.484 Z" id="Shape" fill="url(#linearGradient-5)" sketch:type="MSShapeGroup"></path>
+                <path d="M116.5,132.533 C113.884,136.78 115.319,142.287 119.709,144.813 C124.093,147.347 129.788,145.954 132.401,141.712 C135.015,137.472 133.579,131.964 129.188,129.434 C124.805,126.901 119.116,128.293 116.5,132.533 L116.5,132.533 Z" id="Shape" fill="#010202" sketch:type="MSShapeGroup"></path>
+                <path d="M52.581,103.48 C51.231,105.667 51.971,108.504 54.234,109.809 C56.496,111.115 59.429,110.397 60.776,108.21 C62.126,106.022 61.387,103.185 59.123,101.881 C56.859,100.574 53.928,101.293 52.581,103.48 L52.581,103.48 Z" id="Shape" fill="#010202" sketch:type="MSShapeGroup"></path>
+                <path d="M70.266,148.824 L71.357,136.065 L58.948,140.521 L70.266,148.824 Z" id="Shape" fill="#010202" sketch:type="MSShapeGroup"></path>
+                <path d="M91.456,246.374 C77.915,255.136 63.195,329.999 64.758,359.715 C66.322,358.152 170.574,295.757 258.189,309.297 C255.061,306.169 204.837,233.515 181.46,236.02 C159.158,238.409 104.997,237.612 91.456,246.374 L91.456,246.374 Z" id="Shape" fill="#E20B6A" sketch:type="MSShapeGroup"></path>
+                <path d="M175.412,238.525 C175.412,238.525 213.079,268.502 209.952,274.757 C206.824,281.013 198.481,290.397 193.267,286.227 C193.267,286.227 178.671,281.013 175.543,273.715" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M193.287,265.074 C209.03,300.552 197.602,329.863 170.328,341.484 C143.059,353.106 110.273,342.635 94.532,307.155 C78.795,271.678 88.136,233.492 115.408,221.871 C142.68,210.249 177.55,229.598 193.287,265.074 L193.287,265.074 Z" id="Shape" fill="url(#linearGradient-6)" sketch:type="MSShapeGroup"></path>
+                <path d="M92.053,246.042 C92.053,246.042 121.523,255.269 173.561,236.684 C173.561,236.684 178.853,238.253 177.942,240.6 C177.942,240.338 138.167,256.422 90.725,247.038 C90.726,246.905 92.053,246.042 92.053,246.042 L92.053,246.042 Z" id="Shape" fill="#E20B6A" sketch:type="MSShapeGroup"></path>
+                <path d="M113.242,332.757 C113.242,332.757 141.135,359.083 149.997,364.296 C150.779,364.296 155.693,365.962 158.858,363.383 C162.379,360.518 166.418,353.999 157.816,344.615 C149.214,335.231 115.589,335.103 113.242,332.757 L113.242,332.757 Z" id="Shape" fill="url(#linearGradient-7)" sketch:type="MSShapeGroup"></path>
+                <path d="M199.003,308.643 C199.003,308.643 205.293,338.491 197.439,341.488 C190.27,344.224 183.883,342.532 181.799,336.276 C179.712,330.02 199.003,308.643 199.003,308.643 L199.003,308.643 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M68.003,74.507 C68.003,74.507 188.054,-21.36 233.932,5.749 C237.746,7.689 246.441,10.962 242.272,18.261 C238.103,25.559 107.769,51.626 85.872,72.479" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M155.73,91.248 C155.73,91.248 274.47,28.238 299.859,50.305 C325.248,72.372 308.322,69.777 299.859,69.777 C291.396,69.777 178.091,81.942 163.583,97.519" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <ellipse id="Oval" fill="#EDEDED" sketch:type="MSShapeGroup" cx="133.139" cy="287.261" rx="27.612" ry="26.55"></ellipse>
+                <g id="Shape-+-Shape" transform="translate(115.000000, 272.000000)" fill="#FF8700" sketch:type="MSShapeGroup">
+                    <path d="M25.5142678,23.2671603 C25.0172864,23.4120983 24.6207375,23.4664499 24.1006407,23.4664499 C19.839832,23.4664499 13.5835255,8.75249916 13.5835255,3.8553321 C13.5835255,2.05266734 14.015146,1.45125395 14.6249148,0.934912787 C9.41039606,1.53632618 3.15329243,3.42760784 1.15261343,5.83168599 C0.720195754,6.43388708 0.457158275,7.3779525 0.457158275,8.58077929 C0.457158275,16.2254643 8.71414382,33.5727156 14.5384313,33.5727156 C17.2337683,33.5731094 21.7767444,29.1958282 25.5142678,23.2671603" id="Shape"></path>
+                    <path d="M23.4234298,0.934912787 C28.8117127,0.934912787 34.2035825,1.79351213 34.2035825,4.79939752 C34.2035825,10.8974221 30.2903022,18.2872843 28.292413,18.2872843 C24.7286537,18.2872843 20.2956751,8.49334394 20.2956751,3.59617689 C20.2960736,1.3630309 21.1648944,0.934912787 23.4234298,0.934912787" id="Shape"></path>
                 </g>
-                <g id="Group" transform="translate(153.113924, 0.000000)" sketch:type="MSShapeGroup">
-                    <path d="M44.835038,4.74372857 C44.835038,4.74372857 -14.4282532,-0.432242857 14.2231899,26.2710643 C14.2231899,26.2710643 13.7447089,35.5834357 71.9662785,56.2298714 C71.9662785,56.2298714 123.215696,80.0524714 119.81438,116.979143 L130.874127,120.196343 C130.874127,120.196343 141.009722,84.7524286 111.92081,49.3167214 C111.923544,49.3139857 85.8121519,7.47397143 44.835038,4.74372857 L44.835038,4.74372857 Z" id="Shape" fill="url(#linearGradient-77)"></path>
-                    <path d="M72.2861772,15.4868786 C70.2820253,14.3597643 40.9142278,-2.39648571 21.3293165,8.20987857 C21.3293165,8.20987857 -7.81974684,15.9300643 69.8554937,40.8524214 C69.8554937,40.8524214 104.442835,47.6698214 124.347646,99.9192286 L132.670481,104.887286 C132.667747,104.890021 138.60638,52.8266429 72.2861772,15.4868786 L72.2861772,15.4868786 Z" id="Shape" fill="url(#linearGradient-78)"></path>
-                    <path d="M121.050228,113.920614 C123.778937,85.8986929 99.3900759,67.4490357 77.7545316,54.3996786 C66.0795949,47.3552143 52.4196456,43.7167143 39.7713418,38.8772357 C33.6413165,36.5299929 -0.590582278,18.36485 16.1343797,11.7471571 C37.6113418,3.25002857 63.9797468,13.1697286 81.6151899,25.0153714 C96.8308861,35.236 108.606987,50.2988429 117.780152,65.9389214 C123.215696,75.2047857 127.363443,84.9193071 128.227443,95.7253786 C128.916456,104.345614 126.756456,112.971321 127.262278,121.616179 C127.467342,125.139779 132.205671,125.785407 133.33762,122.439629 C145.903899,85.3159857 123.817215,50.0416857 96.7543291,25.6254357 C75.3675949,6.32770714 48.4578228,-2.69467857 20.0579241,1.56482857 C13.099443,2.60713571 2.85721519,6.33865 2.40881013,14.7920071 C1.78541772,26.5829357 14.1821772,35.4794786 23.0764557,40.8223286 C38.7514937,50.2386571 57.5161519,52.9634286 73.6505316,61.4222571 C93.3967595,71.7742 117.249722,89.8463286 119.169114,113.92335 C119.267544,115.138007 120.932658,115.121593 121.050228,113.920614 L121.050228,113.920614 L121.050228,113.920614 Z" id="Shape" fill="#587A9A"></path>
-                </g>
-                <path d="M238.379241,76.0993643 C238.379241,76.0993643 146.76243,119.523357 150.117266,224.531014 C150.117266,224.531014 165.759494,250.821229 238.450329,261.088364 C238.450329,261.088364 276.912,280.9688 303.307747,251.773257 C303.307747,251.773257 363.667443,227.190129 360.482127,192.922571 C360.482127,192.922571 316.836456,92.62855 237.796861,85.2530643 C237.799595,85.2558 235.59038,79.0566714 238.379241,76.0993643 L238.379241,76.0993643 Z" id="Shape" fill="url(#linearGradient-79)" sketch:type="MSShapeGroup"></path>
-                <path d="M226.633215,97.0877643 C226.633215,97.0877643 72.8193418,232.72995 253.698835,250.15645 C253.698835,250.15645 329.698025,251.863536 359.598987,203.444129 C365.291544,194.232979 350.516051,167.904464 327.92081,142.91645 C327.923544,142.91645 258.284051,60.2459 226.633215,97.0877643 L226.633215,97.0877643 Z" id="Shape" fill="url(#radialGradient-80)" sketch:type="MSShapeGroup"></path>
-                <path d="M283.49043,263.564186 C302.241418,251.789671 325.853772,247.511014 340.692152,229.884807 C342.105722,228.205079 340.353114,225.72105 338.318886,226.807129 C319.111291,237.082471 297.585114,246.151364 282.42957,262.188121 C281.759696,262.896671 282.62643,264.105857 283.49043,263.564186 L283.49043,263.564186 L283.49043,263.564186 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup"></path>
-                <path d="M238.422987,71.7386357 C196.136203,92.0950857 161.868759,133.185514 149.78643,178.289236 C147.590886,186.485436 146.431595,194.916907 145.635949,203.351114 C145.08638,209.191864 142.847089,221.997743 145.810937,227.184657 C147.746734,230.574207 151.202734,233.249736 154.213063,235.605186 C180.146734,255.890507 219.149772,260.366136 250.52719,263.654464 C254.29762,264.048407 262.139241,259.115914 255.224506,258.39095 C224.716557,255.1929 189.784709,250.810286 164.023291,232.478264 C160.977418,230.311579 157.920608,227.701707 155.889114,224.511864 C153.239696,220.356314 155.85357,206.814529 156.198076,201.868357 C156.908962,191.650464 159.101772,181.596714 161.975392,171.789179 C173.743291,131.623421 206.493266,93.7447214 244.386228,75.5057143 C250.672101,72.4772786 241.914532,70.0589071 238.422987,71.7386357 L238.422987,71.7386357 L238.422987,71.7386357 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup"></path>
-                <path d="M195.091747,129.114771 C195.091747,129.114771 195.720608,58.8671 100.133772,50.8213643 C100.133772,50.8213643 45.5131139,47.4591714 14.2833418,83.1985429 C14.2833418,83.1985429 -1.23858228,99.5471714 6.51281013,109.893643 C6.51281013,109.893643 11.2019241,114.629164 44.7448101,109.6529 C44.7448101,109.6529 159.213873,86.0354786 186.520101,137.729536 C186.517367,137.7268 194.585924,140.117814 195.091747,129.114771 L195.091747,129.114771 Z" id="Shape" fill="url(#linearGradient-81)" sketch:type="MSShapeGroup"></path>
-                <path d="M34.0104304,78.5916 C34.0104304,78.5916 16.4105316,102.660414 64.8601519,95.5749143 C64.8601519,95.5749143 138.718481,74.8245214 182.659443,114.4021 C185.893975,117.315636 187.285671,113.173764 185.297924,107.918457 C158.937722,38.2288714 58.2762532,41.3940929 34.0104304,78.5916 L34.0104304,78.5916 Z" id="Shape" fill="url(#linearGradient-82)" sketch:type="MSShapeGroup"></path>
-                <path d="M189.432,138.391579 C178.2,108.10175 142.089722,101.787721 113.621468,100.053279 C93.4651139,98.8249429 73.131038,101.793193 53.2098228,104.479664 C44.4057722,105.666964 35.5880506,107.043029 26.7484557,107.956757 C23.6643038,108.276836 20.5883544,108.306929 17.4905316,108.271364 C7.8361519,108.161936 9.08293671,100.0779 12.6455696,94.1085714 C31.2379747,62.9487857 75.1078481,53.8388571 108.385519,56.6046643 C128.694987,58.2926 149.152101,66.3629571 165.24,78.8268714 C182.413367,92.1333857 188.316456,110.178157 191.438886,130.81365 C192.229063,136.036129 200.797975,134.750343 200.571038,129.577107 C196.702177,42.0616071 68.7891646,24.7828357 15.3606076,77.2428929 C6.92020253,85.5293714 -4.33640506,98.8495643 2.20648101,111.141129 C7.78693671,121.627121 29.6794937,116.5086 38.4616709,115.211871 C88.3221266,107.861007 149.994228,97.3613357 187.189975,139.696514 C188.056709,140.684107 189.899544,139.650007 189.432,138.391579 L189.432,138.391579 L189.432,138.391579 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup"></path>
-                <path d="M240.167392,71.52525 C236.287595,74.9038571 231.877367,80.5722571 232.484354,86.0628357 C233.222582,92.7078857 242.833215,91.9254714 247.415696,92.5793071 C261.849418,94.6393 275.547646,102.737014 287.255392,110.941421 C299.813468,119.742214 310.780253,130.715164 320.691646,142.358364 C326.843544,149.586121 332.363848,157.325457 337.670886,165.182429 C341.113215,170.2818 344.276658,175.561729 347.404557,180.855336 C349.843443,184.980793 356.356253,193.01285 356.782785,197.72375 C358.792405,219.951429 321.320506,237.416229 305.276354,244.531821 C301.768405,246.088443 297.079291,257.614007 301.858633,255.493829 C325.807291,244.873786 353.515443,229.411529 363.038582,203.132257 C364.528709,199.023214 365.690734,194.555793 365.403646,190.14035 C364.963443,183.320214 356.533975,173.146093 353.069772,167.283457 C347.218633,157.385643 340.621063,147.947429 333.607899,138.845707 C317.265722,117.641186 296.704709,98.5595786 272.135392,87.4279571 C266.516658,84.8837429 244.260456,77.0896929 241.102481,79.83635 C244.495595,76.8790429 246.472405,66.0374071 240.167392,71.52525 L240.167392,71.52525 L240.167392,71.52525 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup"></path>
-                <path d="M318.099646,181.966036 C319.294481,192.205814 316.070886,201.805436 311.102886,203.788829 C306.296203,205.712036 301.309063,199.874021 299.766987,190.422129 C298.148354,180.518843 300.82238,169.99455 305.97357,167.267043 C311.310684,164.44105 316.844658,171.206471 318.099646,181.966036 L318.099646,181.966036 Z" id="Shape" fill="url(#linearGradient-83)" sketch:type="MSShapeGroup"></path>
-                <path d="M317.200101,189.128136 C317.837165,197.994586 314.490532,205.367336 309.847899,205.865236 C305.300962,206.352193 300.983696,200.081936 300.081418,191.609429 C299.151797,182.846936 302.184,174.8012 306.987949,173.903886 C311.912203,172.987421 316.541165,179.9334 317.200101,189.128136 L317.200101,189.128136 Z" id="Shape" fill="#3F3166" sketch:type="MSShapeGroup"></path>
-                <path d="M314.252658,181.164471 C315.365468,185.590857 313.883544,190.17865 311.001722,191.448021 C308.174582,192.692771 304.997468,190.282607 303.849114,186.025836 C302.687089,181.71435 304.015899,177.04175 306.881316,175.62465 C309.795949,174.180193 313.123443,176.6779 314.252658,181.164471 L314.252658,181.164471 Z" id="Shape" fill="#7B75AA" sketch:type="MSShapeGroup"></path>
-                <path d="M311.797367,201.028493 C311.605975,202.445593 310.506835,203.559029 309.339342,203.517993 C308.180051,203.476957 307.381671,202.306071 307.556658,200.899914 C307.731646,199.482814 308.825316,198.350229 310.001013,198.377586 C311.184911,198.407679 311.988759,199.60045 311.797367,201.028493 L311.797367,201.028493 Z" id="Shape" fill="#7B75AA" sketch:type="MSShapeGroup"></path>
-                <path d="M260.545215,187.724714 C261.403747,199.802893 256.700962,209.323179 250.275646,209.514679 C244.058127,209.700707 232.580051,198.093071 231.221165,186.764479 C231.798076,173.334857 235.275949,171.384293 245.365063,173.263729 C252.263392,175.797 259.642937,175.020057 260.545215,187.724714 L260.545215,187.724714 Z" id="Shape" fill="url(#linearGradient-84)" sketch:type="MSShapeGroup"></path>
-                <path d="M256.430278,194.216564 C256.793924,203.772414 253.009823,210.748486 248.091038,210.173986 C243.273418,209.607693 238.890532,201.9559 238.174177,192.747486 C237.435949,183.158807 240.902886,175.249857 246.070481,175.457771 C251.35838,175.668421 256.052962,184.247621 256.430278,194.216564 L256.430278,194.216564 Z" id="Shape" fill="#3F3166" sketch:type="MSShapeGroup"></path>
-                <path d="M253.575797,185.016357 C254.609316,190.011771 252.875848,194.539379 249.780759,195.19595 C246.740354,195.841579 243.440203,192.512214 242.346532,187.697357 C241.233722,182.800429 242.797671,178.108679 245.898228,177.279757 C249.058937,176.437157 252.528608,179.927929 253.575797,185.016357 L253.575797,185.016357 Z" id="Shape" fill="#7B75AA" sketch:type="MSShapeGroup"></path>
-                <path d="M250.308456,205.53695 C250.059646,206.99235 248.862076,207.900607 247.631696,207.580529 C246.404051,207.26045 245.597468,205.840614 245.827139,204.396157 C246.05681,202.938021 247.248911,201.996936 248.495696,202.308807 C249.745215,202.623414 250.56,204.073343 250.308456,205.53695 L250.308456,205.53695 Z" id="Shape" fill="#7B75AA" sketch:type="MSShapeGroup"></path>
-                <g id="Group" transform="translate(270.683544, 205.178571)" sketch:type="MSShapeGroup">
-                    <path d="M4.22977215,4.09536429 C4.22977215,4.09536429 -3.54622785,14.4801357 11.4315949,17.2678286 C15.8691646,18.0830714 31.0137722,12.0125214 25.0915443,7.13474286 C25.0942785,7.13474286 13.4166076,-0.935614286 4.22977215,4.09536429 L4.22977215,4.09536429 Z" id="Shape" fill="url(#linearGradient-85)"></path>
-                    <g transform="translate(2.734177, 0.000000)" id="Shape">
-                        <path d="M25.1188861,7.56972143 C24.6404051,10.5653286 16.3203038,15.5716857 9.57782278,14.6798429 C3.01579747,13.8126214 -0.0218734177,7.60255 0.254278481,4.73552143 C0.535898734,1.82745714 6.19564557,-0.00273571429 13.0638987,0.703078571 C20.1290127,1.42530714 25.6083038,4.53034286 25.1188861,7.56972143 L25.1188861,7.56972143 Z" fill="#EB5B99"></path>
-                        <path d="M22.1495696,5.99942143 C21.8761519,7.33171429 17.7830886,7.76942857 13.0885063,6.99795714 C8.47868354,6.24016429 4.97073418,4.58505714 5.18126582,3.28832857 C5.38906329,1.98065714 9.29073418,1.49096429 13.963443,2.21592857 C18.7263797,2.95183571 22.4257215,4.65892143 22.1495696,5.99942143 L22.1495696,5.99942143 Z" fill="#F197BF"></path>
-                    </g>
-                </g>
-                <path d="M283.558785,220.323486 L281.792506,239.569236 C281.792506,239.569236 287.824101,232.018664 283.558785,220.323486 L283.558785,220.323486 Z" id="Shape" fill="#587A9A" sketch:type="MSShapeGroup"></path>
-                <path d="M231.524658,176.259336 C231.989468,175.775114 255.314734,179.446443 255.314734,179.446443 C255.314734,179.446443 260.558886,176.645071 259.558177,170.965729 C259.558177,170.965729 256.268962,175.70125 254.921013,175.217029 C254.921013,175.217029 257.239595,173.091379 256.92243,171.515607 L252.957873,172.71385 C252.957873,172.71385 234.277975,169.146479 233.733873,169.214871 C233.189772,169.283264 226.668759,179.709071 226.668759,179.709071 C226.668759,179.709071 225.698127,182.321679 231.524658,176.259336 L231.524658,176.259336 Z" id="Shape" fill="#3F3166" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="typo3-orange" sketch:type="MSLayerGroup" transform="translate(259.000000, 343.000000)" fill="#FF8700">
-                <path d="M20.2737857,18.4641882 C19.8729643,18.5810824 19.5531429,18.6249176 19.1336786,18.6249176 C15.6972857,18.6249176 10.6515,6.75794118 10.6515,2.80831765 C10.6515,1.35444706 10.9996071,0.8694 11.4913929,0.452964706 C7.28582143,0.938011765 2.23939286,2.46335294 0.625821429,4.40227059 C0.277071429,4.88795294 0.0649285714,5.64935294 0.0649285714,6.61944706 C0.0649285714,12.7849765 6.72428571,26.7757412 11.4216429,26.7757412 C13.5954643,26.7760588 17.2594286,23.2457294 20.2737857,18.4641882" id="Shape" sketch:type="MSShapeGroup"></path>
-                <path d="M18.0803571,0.0387529412 C22.4260714,0.0387529412 26.7746786,0.731223529 26.7746786,3.15550588 C26.7746786,8.07363529 23.6185714,14.0336471 22.00725,14.0336471 C19.1330357,14.0336471 15.5577857,6.13471765 15.5577857,2.18509412 C15.5581071,0.384035294 16.2588214,0.0387529412 18.0803571,0.0387529412" id="Shape" sketch:type="MSShapeGroup"></path>
             </g>
         </g>
     </g>

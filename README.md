@@ -1,6 +1,6 @@
 # [zimmer7](http://zimmer7.com) 💗  [varnish](https://www.varnish-cache.org)
 
-![varnish-bunny](Resources/Public/Icons/VarnishTYPO3Bunny.svg)
+![varnish-bunny](ext_icon.png)
 
 ## Installation
 
@@ -12,6 +12,8 @@ Install the extension.
 
 * …to snowflake for their [varnish-typo3](https://github.com/snowflakech/typo3-varnish) extension.
   Most of this extension is modeled after theirs, but simplified a bit and it also works on 7.2.
+
+* …to varnish-software for openly sharing the superbunny graphics.
 
 ## License
 
