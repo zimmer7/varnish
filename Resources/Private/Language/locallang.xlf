@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-08-03T13:06:53Z" product-name="varnish">
+		<header/>
+		<body>
+			<trans-unit id="hooks.cache.title">
+				<source>Flush varnish cache</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
