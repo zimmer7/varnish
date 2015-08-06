@@ -16,7 +16,7 @@ class ClearCacheMenu implements \TYPO3\CMS\Backend\Toolbar\ClearCacheActionsHook
 			'id' => 'varnish',
 			'title' => LocalizationUtility::translate('LLL:EXT:varnish/Resources/Private/Language/locallang.xlf:hooks.cache.title', $_EXTKEY),
 			'href' => 'ajax.php?ajaxID=varnish::banAll',
-			'icon' => '<img src="/' . $GLOBALS['TYPO3_LOADED_EXT']['varnish']['siteRelPath'] . 'Resources/Public/Icons/VarnishTYPO3Bunny.svg" width="16" height="16" />'
+			'icon' => '<img src="/' . $GLOBALS['TYPO3_LOADED_EXT']['varnish']['siteRelPath'] . 'Resources/Public/Icons/ClearVarnish.svg" width="16" height="16" />'
 		);
 	}
 }
