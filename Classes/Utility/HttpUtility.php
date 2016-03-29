@@ -21,7 +21,7 @@ class HttpUtility {
 	 * @param array $headers
 	 * @return array
 	 */
-	private function sendRequest($url, $verb, $headers) {
+	private static function sendRequest($url, $verb, $headers) {
 		$ch = curl_init();
 		curl_setopt($ch, CURLOPT_URL, $url);
 		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $verb);
