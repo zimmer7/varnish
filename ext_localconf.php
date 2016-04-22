@@ -10,7 +10,7 @@ if (TYPO3_MODE === 'BE') {
 		'Z7\\Varnish\\Hooks\\ClearCache->clearCache';
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::registerAjaxHandler(
         'varnish::banAll',
-		'Z7\\Varnish\\Hooks\Ajax->banAll'
+		'Z7\\Varnish\\Hooks\\Ajax->banAll'
     );
 }
 
