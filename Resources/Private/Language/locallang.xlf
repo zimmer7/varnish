@@ -6,6 +6,9 @@
 			<trans-unit id="hooks.cache.title">
 				<source>Flush varnish cache</source>
 			</trans-unit>
+			<trans-unit id="hooks.cache.description">
+				<source>Flush ALL pages from varnish.</source>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>

@@ -1,39 +1,43 @@
 <?php
 namespace Z7\Varnish\Utility;
 
-class HttpUtility {
+class HttpUtility
+{
 
-	/**
-	 * Make a BAN request…
-	 *
-	 * @param string $url
-	 * @param array $headers
-	 */
-	public static function ban($url, $headers = array()) {
-		return self::sendRequest($url, 'BAN', $headers);
-	}
+    /**
+     * Make a BAN request…
+     *
+     * @param string $url
+     * @param array $headers
+     */
+    public static function ban($url, $headers = [])
+    {
+        $f = self::sendRequest($url, 'BAN', $headers);
+        return $f;
+    }
 
-	/**
-	 * Raw magic…
-	 *
-	 * @param string $url
-	 * @param string $verb
-	 * @param array $headers
-	 * @return array
-	 */
-	private static function sendRequest($url, $verb, $headers) {
-		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, $url);
-		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $verb);
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-		curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    /**
+     * Raw magic…
+     *
+     * @param string $url
+     * @param string $verb
+     * @param array $headers
+     * @return array
+     */
+    private static function sendRequest($url, $verb, $headers)
+    {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $verb);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 
-		$response = curl_exec($ch);
-		if ($response === FALSE) {
-			return curl_error($ch);
-		}
-		curl_close($ch);
+        $response = curl_exec($ch);
+        if ($response === false) {
+            return curl_error($ch);
+        }
+        curl_close($ch);
 
-		return $response;
-	}
+        return $response;
+    }
 }
