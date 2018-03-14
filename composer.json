@@ -1,0 +1,13 @@
+{
+    "name": "z7/varnish",
+    "description": "",
+    "type": "typo3-cms-extension",
+    "require": {
+        "typo3/cms-core": ">=7.2.0,<7.6.999"
+    },
+    "autoload": {
+        "psr-4": {
+            "Z7\\Varnish\\": "Classes/"
+        }
+    }
+}
