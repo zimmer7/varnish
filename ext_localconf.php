@@ -7,10 +7,6 @@ case 'BE':
         Z7\Varnish\Hooks\ClearCacheMenu::class;
     $TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearCachePostProc'][] =
         Z7\Varnish\Hooks\ClearCache::class . '->clearCache';
-    \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::registerAjaxHandler(
-        'varnish::banAll',
-        Z7\Varnish\Hooks\Ajax::class . '->banAll'
-    );
     break;
 case 'FE':
     $TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_fe.php']['contentPostProc-output'][] =
