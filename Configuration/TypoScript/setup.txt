@@ -1,4 +1,8 @@
 # We need to send the cache headers to the proxy
-[globalString = IENV:TYPO3_REV_PROXY = 1 ]
-config.sendCacheHeaders = 1
+#[globalString = IENV:TYPO3_REV_PROXY = 1 ]
+#config.sendCacheHeaders = 1
+#[global]
+
+[request.getNormalizedParams().isBehindReverseProxy() == 1]
+	config.sendCacheHeaders = 1
 [global]
