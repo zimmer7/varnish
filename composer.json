@@ -3,7 +3,7 @@
 	"description": "",
 	"type": "typo3-cms-extension",
 	"require": {
-		"typo3/cms-core": ">=7.6.0,<9.5.999"
+		"typo3/cms-core": "^8.7 || ^9 || ^10 || dev-master"
 	},
 	"autoload": {
 		"psr-4": {
