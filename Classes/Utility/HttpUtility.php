@@ -1,9 +1,9 @@
 <?php
+
 namespace Z7\Varnish\Utility;
 
 class HttpUtility
 {
-
     /**
      * Make a BAN request…
      *

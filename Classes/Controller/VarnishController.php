@@ -1,7 +1,9 @@
 <?php
+
 namespace Z7\Varnish\Controller;
-use Z7\Varnish\Utility\HttpUtility;
+
 use TYPO3\CMS\Core\Utility\GeneralUtility;
+use Z7\Varnish\Utility\HttpUtility;
 
 class VarnishController
 {
@@ -20,10 +22,11 @@ class VarnishController
 
             if (is_numeric($cacheObject)) {
                 return HttpUtility::ban($url, [
-                    'Varnish-Ban-TYPO3-Pid: ' . (integer) $cacheObject,
+                    'Varnish-Ban-TYPO3-Pid: ' . (integer)$cacheObject,
                     $siteName
                 ]);
-            } elseif ($cacheObject === 'pages' || $cacheObject === 'all') {
+            }
+            if ($cacheObject === 'pages' || $cacheObject === 'all') {
                 // do nothing
             } elseif ($cacheObject === 'banAll') {
                 return HttpUtility::ban($url, [

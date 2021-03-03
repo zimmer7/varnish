@@ -1,18 +1,16 @@
 <?php
+
 $EM_CONF[$_EXTKEY] = [
     'title' => 'varnish',
     'description' => '',
     'category' => 'misc',
     'shy' => 0,
     'version' => '1.0.0',
-    'constraints' => array(
-        'depends' => array(
-        ),
-        'conflicts' => array(
-        ),
-        'suggests' => array(
-        ),
-    ),
+    'constraints' => [
+        'depends' => [],
+        'conflicts' => [],
+        'suggests' => []
+    ],
     'state' => 'stable',
     'author' => 'Andreas Lappe',
     'author_email' => 'a.lappe@zimmer7.com',

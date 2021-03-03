@@ -2,6 +2,11 @@
 	"name": "z7/varnish",
 	"description": "",
 	"type": "typo3-cms-extension",
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "varnish"
+		}
+	},
 	"require": {
 		"typo3/cms-core": "^8.7 || ^9 || ^10 || dev-master"
 	},

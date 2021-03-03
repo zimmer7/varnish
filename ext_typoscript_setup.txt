@@ -1,1 +1,1 @@
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:varnish/Configuration/TypoScript/setup.txt">
+@import 'EXT:varnish/Configuration/TypoScript/setup.typoscript'
