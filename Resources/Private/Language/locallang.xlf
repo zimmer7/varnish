@@ -3,11 +3,17 @@
 	<file source-language="en" datatype="plaintext" original="messages" date="2015-08-03T13:06:53Z" product-name="varnish">
 		<header/>
 		<body>
-			<trans-unit id="hooks.cache.title">
+			<trans-unit id="eventlistener.cachemenu.title">
 				<source>Flush varnish cache</source>
 			</trans-unit>
-			<trans-unit id="hooks.cache.description">
+			<trans-unit id="eventlistener.cachemenu.description">
 				<source>Flush ALL pages from varnish.</source>
+			</trans-unit>
+			<trans-unit id="ajax.success.title">
+				<source>Varnish</source>
+			</trans-unit>
+			<trans-unit id="ajax.success.message">
+				<source>All content has been flushed from varnish.</source>
 			</trans-unit>
 		</body>
 	</file>

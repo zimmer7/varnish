@@ -6,14 +6,10 @@ class HttpUtility
 {
     /**
      * Make a BAN request…
-     *
-     * @param string $url
-     * @param array $headers
      */
-    public static function ban($url, $headers = [])
+    public static function ban(string $url, array $headers = []) : string
     {
-        $f = self::sendRequest($url, 'BAN', $headers);
-        return $f;
+        return self::sendRequest($url, 'BAN', $headers);
     }
 
     /**
@@ -24,7 +20,7 @@ class HttpUtility
      * @param array $headers
      * @return array
      */
-    private static function sendRequest($url, $verb, $headers)
+    private static function sendRequest($url, $verb, $headers): string
     {
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $url);
@@ -34,10 +30,12 @@ class HttpUtility
 
         $response = curl_exec($ch);
         if ($response === false) {
-            return curl_error($ch);
+            $error = curl_error($ch);
+            curl_close($ch);
+            return $error;
+        } else {
+            curl_close($ch);
+            return $response;
         }
-        curl_close($ch);
-
-        return $response;
     }
 }

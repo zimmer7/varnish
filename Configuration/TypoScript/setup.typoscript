@@ -1,3 +1,0 @@
-[getTSFE() && request.getNormalizedParams().isBehindReverseProxy() == 1]
-	config.sendCacheHeaders = 1
-[global]

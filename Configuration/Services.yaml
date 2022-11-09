@@ -1,0 +1,12 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+
+  Z7\Varnish\EventListener\ClearCacheMenuEventListener:
+    tags:
+      - name: event.listener
+
+  Z7\Varnish\EventListener\CacheFlushEventListener:
+    tags:
+      - name: event.listener

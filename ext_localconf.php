@@ -1,13 +1,11 @@
 <?php
-
 defined('TYPO3_MODE') or die();
 
-switch (TYPO3_MODE) {
-case 'BE':
-    $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['additionalBackendItems']['cacheActions']['banAll'] = Z7\Varnish\Hooks\ClearCacheMenu::class;
-    $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearCachePostProc'][] = Z7\Varnish\Hooks\ClearCache::class . '->clearCache';
-    break;
-case 'FE':
-    $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['tslib/class.tslib_fe.php']['contentPostProc-output'][] = Z7\Varnish\Hooks\Frontend::class . '->sendHeader';
-    break;
-}
+$GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearCachePostProc'][] = Z7\Varnish\Hooks\ClearCache::class . '->clearCache';
+
+$iconRegistry = \TYPO3\CMS\Core\Utility\GeneralUtility::makeInstance( \TYPO3\CMS\Core\Imaging\IconRegistry::class);
+$iconRegistry->registerIcon(
+	'actions-ext-varnish-clear',
+	\TYPO3\CMS\Core\Imaging\IconProvider\SvgIconProvider::class,
+	['source' => 'EXT:varnish/Resources/Public/Icons/ClearVarnish.svg']
+);
