@@ -14,7 +14,7 @@ class ClearCache
      */
     public function clearCache(array $params, DataHandler &$parent): void
     {
-        if ($params['cacheCmd'] !== null) {
+        if (isset($params['cacheCmd'])) {
             VarnishController::ban($params['cacheCmd']);
         }
     }
