@@ -21,7 +21,9 @@ class VarnishController {
 					'Varnish-Ban-TYPO3-Pid: ' . (integer) $cacheObject,
 					$siteName
 				));
-			} elseif ($cacheObject === 'pages' || $cacheObject === 'all' || $cacheObject === 'system') {
+			} elseif ($cacheObject === 'pages' || $cacheObject === 'all') {
+				// do nothing
+			} elseif ($cacheObject === 'banAll') {
 				return HttpUtility::ban($url, array(
 					'Varnish-Ban-All: 1',
 					$siteName
