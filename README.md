@@ -11,7 +11,7 @@ Install the extension.
 ## Thanks…
 
 * …to snowflake for their [varnish-typo3](https://github.com/snowflakech/typo3-varnish) extension.
-  Most of this extension is modeled after theirs, but simplified a bit and it also works on 7.2.
+  Most of this extension is modeled after theirs, but simplified a bit and it also works on 7 LTS.
 
 * …to varnish-software for openly sharing the superbunny graphics.
 
