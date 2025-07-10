@@ -18,7 +18,7 @@ class VarnishController
     {
         if ($GLOBALS['TYPO3_CONF_VARS']['SYS']['reverseProxyIP'] !== '') {
             $url = $GLOBALS['TYPO3_CONF_VARS']['SYS']['reverseProxyIP'] . ':6081';
-            $siteName = 'Varnish-Ban-TYPO3-Sitename: ' . GeneralUtility::hmac($GLOBALS['TYPO3_CONF_VARS']['SYS']['sitename']);
+            $siteName = 'Varnish-Ban-TYPO3-Sitename: ' . \TYPO3\CMS\Core\Utility\GeneralUtility::makeInstance(\TYPO3\CMS\Core\Crypto\HashService::class)->hmac($GLOBALS['TYPO3_CONF_VARS']['SYS']['sitename'], 'changeMe');
 
             if (is_numeric($cacheObject)) {
                 return HttpUtility::ban($url, [
@@ -50,7 +50,7 @@ class VarnishController
     {
         if ($GLOBALS['TYPO3_CONF_VARS']['SYS']['reverseProxyIP'] !== '') {
             $url = $GLOBALS['TYPO3_CONF_VARS']['SYS']['reverseProxyIP'] . ':6081';
-            $siteName = 'Varnish-Ban-TYPO3-Sitename: ' . GeneralUtility::hmac($GLOBALS['TYPO3_CONF_VARS']['SYS']['sitename']);
+            $siteName = 'Varnish-Ban-TYPO3-Sitename: ' . \TYPO3\CMS\Core\Utility\GeneralUtility::makeInstance(\TYPO3\CMS\Core\Crypto\HashService::class)->hmac($GLOBALS['TYPO3_CONF_VARS']['SYS']['sitename'], 'changeMe');
 
             return HttpUtility::ban($url, [
                 'Varnish-Ban-TYPO3-Id: ' . $id,

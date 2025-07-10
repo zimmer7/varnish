@@ -20,7 +20,7 @@ class Frontend implements MiddlewareInterface
         $response = $response->withHeader(
             'TYPO3-Pid', (string)$request->getAttribute('routing')['pageId']
         )->withHeader(
-            'TYPO3-Sitename', GeneralUtility::hmac($GLOBALS['TYPO3_CONF_VARS']['SYS']['sitename'])
+            'TYPO3-Sitename', \TYPO3\CMS\Core\Utility\GeneralUtility::makeInstance(\TYPO3\CMS\Core\Crypto\HashService::class)->hmac($GLOBALS['TYPO3_CONF_VARS']['SYS']['sitename'], 'changeMe')
         );
 
         return $response;
